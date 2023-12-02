@@ -1,0 +1,23 @@
+_id: req_8eea2101207f476dbca68e6b6e59d150
+type: Request
+parentId: fld_ed991b1d81394b3da5ff4ae6bcf94338
+modified: 1701550790796
+created: 1701550746671
+url: http://localhost:3001/plants/createMasivo
+name: Create Masivo
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1701550746671
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

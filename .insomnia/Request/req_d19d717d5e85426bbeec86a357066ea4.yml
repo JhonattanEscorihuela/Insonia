@@ -1,0 +1,23 @@
+_id: req_d19d717d5e85426bbeec86a357066ea4
+type: Request
+parentId: fld_ed991b1d81394b3da5ff4ae6bcf94338
+modified: 1701552342111
+created: 1701534471171
+url: http://localhost:3001/plants/all
+name: Get All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1701538938093
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

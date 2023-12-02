@@ -1,0 +1,23 @@
+_id: req_2400d778994d49848e7ed77ed4f80ae6
+type: Request
+parentId: fld_ed991b1d81394b3da5ff4ae6bcf94338
+modified: 1701539048353
+created: 1701535474575
+url: http://localhost:3001/plants
+name: Create
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1701538938193
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

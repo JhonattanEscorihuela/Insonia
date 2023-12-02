@@ -1,0 +1,23 @@
+_id: req_d750684da5f5418cba34c1828b4ce374
+type: Request
+parentId: fld_ed991b1d81394b3da5ff4ae6bcf94338
+modified: 1701538992433
+created: 1701534930018
+url: http://localhost:3001/plants
+name: Delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1701538938118
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,23 @@
+_id: req_dce79e7c4d9740e7b600bb18bf9f2bbf
+type: Request
+parentId: fld_e7fba41e81e14f11829229856bbf06e5
+modified: 1700799216950
+created: 1698434823356
+url: http://localhost:3001/users/deleteMany?filter={"id":[1,2,3,4]}
+name: DeleteManyUser
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1700799187584
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

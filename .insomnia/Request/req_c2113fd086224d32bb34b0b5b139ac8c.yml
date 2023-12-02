@@ -1,0 +1,31 @@
+_id: req_c2113fd086224d32bb34b0b5b139ac8c
+type: Request
+parentId: fld_857e7ea96e05452fb1b63965755756b5
+modified: 1701541134398
+created: 1701539019387
+url: http://localhost:3001/categories/create
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name":"interior",
+    	"description":"Ideal para el Interior de vuestra casa!"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1701539019387
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,34 @@
+_id: req_a396df0c02af42fea302808222763df6
+type: Request
+parentId: fld_e7fba41e81e14f11829229856bbf06e5
+modified: 1700799187471
+created: 1698630667365
+url: http://localhost:3001/countries/update/9
+name: Edit countries
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: >-
+    {
+        "name": "Costa Rica de placeres",
+        "image": "https://images.pexels.com/photos/9482124/pexels-photo-9482124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    		"continent": "America",
+    		"description":"Tierra de Sensaciones",
+    		"experiences":"Buceo"
+      }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1700799187334
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

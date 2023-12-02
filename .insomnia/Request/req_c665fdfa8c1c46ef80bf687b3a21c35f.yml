@@ -1,0 +1,36 @@
+_id: req_c665fdfa8c1c46ef80bf687b3a21c35f
+type: Request
+parentId: fld_e7fba41e81e14f11829229856bbf06e5
+modified: 1700799211772
+created: 1698436287396
+url: http://localhost:3001/clients/create/
+name: POST CLIENT
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    	{
+    		"firstName": "Jhonatan",
+    		"lastName": "Escorihela",
+    		"email": "jhonattan110@gmail.com",
+    		"telephone": "3506872829",
+    		"countryOrigin": "Colombia",
+    		"destinationCountry": "Argentina",
+    		"comment": "Hola que hace"
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1700799187684
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

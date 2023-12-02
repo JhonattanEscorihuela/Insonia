@@ -1,0 +1,36 @@
+_id: req_42e90a9072134acebb0caa5def3010b6
+type: Request
+parentId: fld_e7fba41e81e14f11829229856bbf06e5
+modified: 1700799218509
+created: 1698120026501
+url: http://localhost:3001/clients/create
+name: POST CLIENT
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |+
+    {
+    	"firstName": "Kenny", 
+      "lastName": "Espinoza",
+      "email": "kenny@mail.com", 
+      "telephone": "322876989", 
+      "countryOrigin": "Peru", 
+      "destinationCountry": "Argentina"
+    }
+
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1700799187609
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

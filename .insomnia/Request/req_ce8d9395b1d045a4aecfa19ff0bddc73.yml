@@ -1,0 +1,23 @@
+_id: req_ce8d9395b1d045a4aecfa19ff0bddc73
+type: Request
+parentId: fld_e7fba41e81e14f11829229856bbf06e5
+modified: 1700799226194
+created: 1697309260594
+url: http://localhost:3001/countries/country/2
+name: BusquedaId
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1700799187571.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

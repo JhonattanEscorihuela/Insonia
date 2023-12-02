@@ -1,0 +1,32 @@
+_id: req_37ecd9a9bc764884a408cbd5d4385537
+type: Request
+parentId: fld_e7fba41e81e14f11829229856bbf06e5
+modified: 1700799232021
+created: 1697198297998
+url: http://localhost:3001/countries/all?country=arg
+name: GET/Countries/name?nombre=
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: "{}"
+parameters:
+  - id: pair_362582a5670545b59ab7e812d6b440b5
+    name: nombre
+    value: Michael
+    description: ""
+    disabled: true
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+authentication: {}
+metaSortKey: -1700799187546.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

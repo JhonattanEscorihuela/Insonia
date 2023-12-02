@@ -1,0 +1,35 @@
+_id: req_dbf85755cc3e4149a8a0ee8dfe715695
+type: Request
+parentId: fld_e7fba41e81e14f11829229856bbf06e5
+modified: 1700799222976
+created: 1698118531923
+url: http://localhost:3001/users/create
+name: POST USER
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Dario",
+       "lastName": "Aguilar",
+     	"email": "jhasdsadonattaaasdssadasdsdadsdsad0@gmail.com",
+          "telephone": "3506872829",
+          "isBlocked": "false",
+          "userStatus": "Colaborador"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1700799187596.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,41 @@
+_id: req_e5d2d27cd18541f0b967da4377599112
+type: Request
+parentId: fld_e7fba41e81e14f11829229856bbf06e5
+modified: 1700799213857
+created: 1698436120915
+url: http://localhost:3001/clients/update/1
+name: EDIT CLIENT
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    	{
+    	"firstName": "Jhonatan",
+    	"lastName": "Escorihuela",
+    	"telephone": "3506872829",
+    		"email": "jhonattan1110@gmail.com",
+    	"destinationCountry": "Argentina",
+    	"membershipStatus": "Diamante",
+    	"contactStatus": "En espera"		
+    	}
+parameters:
+  - id: pair_5cdfe43930734378a6e9f5a61781f83e
+    name: email
+    value: jhonattan1410@gmail.com
+    description: ""
+    disabled: true
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1700799187659
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,31 @@
+_id: req_e8531f9a0ec242889a4fccf370df79f7
+type: Request
+parentId: fld_e7fba41e81e14f11829229856bbf06e5
+modified: 1700799233551
+created: 1694921000276
+url: http://localhost:3001/drivers/name
+name: GET/Drivers/name?nombre="..."
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_cb85b4c4fc3f43d89eeb2c365097c914
+    name: nombre
+    value: Michael
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+authentication: {}
+metaSortKey: -1700799187540.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,36 @@
+_id: req_7db2aaa4583a4d0886f11bf5bfa723db
+type: Request
+parentId: fld_e7fba41e81e14f11829229856bbf06e5
+modified: 1700799230567
+created: 1694922040218
+url: http://localhost:3001/drivers
+name: POST/Drivers/3001
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nombre": "Michael",
+     "apellido": "Vega",
+    	"descripcion": "Coreana",
+    	"imagen":"La que tu quieras",
+    	"nacionalidad": "ColomboVenezonalo",
+    	"fecha_de_nacimiento": "1996-09-09",
+    	"teams": "McLaren"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+authentication: {}
+metaSortKey: -1700799187562.9062
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

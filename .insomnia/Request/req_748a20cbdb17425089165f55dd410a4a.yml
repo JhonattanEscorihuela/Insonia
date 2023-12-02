@@ -1,0 +1,23 @@
+_id: req_748a20cbdb17425089165f55dd410a4a
+type: Request
+parentId: fld_e7fba41e81e14f11829229856bbf06e5
+modified: 1700799201746
+created: 1698511303031
+url: http://localhost:3001/clients/filter/contactStatus/Prospecto
+name: Filter conctaStatus
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1700799187634
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

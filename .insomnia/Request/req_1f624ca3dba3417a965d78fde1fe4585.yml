@@ -1,0 +1,27 @@
+_id: req_1f624ca3dba3417a965d78fde1fe4585
+type: Request
+parentId: fld_857e7ea96e05452fb1b63965755756b5
+modified: 1701541038717
+created: 1701540824213
+url: http://localhost:3001/categories
+name: Get All
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1701538978790
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
